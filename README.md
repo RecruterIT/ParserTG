@@ -1,0 +1,2 @@
+# ParserTG
+Parser for telegram
